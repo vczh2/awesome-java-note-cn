@@ -16,7 +16,7 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
 
  [其他](https://github.com/jack870131/Java-Note/blob/master/Array/5.%20%E5%85%B6%E4%BB%96.md)
 
-- ### 面向對象
+### 面向對象
  [概述](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/1.%20%E6%A6%82%E8%BF%B0.md)
 
  [類與對象](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/2.%20%E9%A1%9E%E8%88%87%E5%B0%8D%E8%B1%A1.md)
