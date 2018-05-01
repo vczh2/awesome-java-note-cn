@@ -23,4 +23,4 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
 
  [數據類型參數傳遞](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/3.%20%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%8F%83%E6%95%B8%E5%82%B3%E9%81%9E.md)
  
- [封裝]()
+ [封裝](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/4.%20%E5%B0%81%E8%A3%9D.md)
