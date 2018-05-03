@@ -26,3 +26,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [封裝](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/4.%20%E5%B0%81%E8%A3%9D.md)
  
  - [構造函數](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/5.%20%E6%A7%8B%E9%80%A0%E5%87%BD%E6%95%B8.md)
+ 
+ - [this 關鍵字](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/6.%20this%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
