@@ -32,3 +32,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [static 關鍵字](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/7.%20static%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
  - [文檔注釋](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/8.%20%E6%96%87%E6%AA%94%E6%B3%A8%E9%87%8B.md)
+ 
+ - [單例設計模式](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/9.%20%E5%96%AE%E4%BE%8B%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
