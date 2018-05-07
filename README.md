@@ -35,4 +35,4 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  
  - [單例設計模式](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/9.%20%E5%96%AE%E4%BE%8B%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
  
- -[繼承(Inheritence)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E7%B9%BC%E6%89%BF(Inheritence).md)
+ - [繼承(Inheritence)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E7%B9%BC%E6%89%BF(Inheritence).md)
