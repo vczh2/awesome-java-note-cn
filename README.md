@@ -38,3 +38,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [繼承(Inheritence)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E7%B9%BC%E6%89%BF(Inheritence).md)
 
  - [final 關鍵字](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/final%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
+
+ - [抽象類(abstract](https://github.com/jack870131/Java-Note/tree/master/Object%20Oriented)
