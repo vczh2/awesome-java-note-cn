@@ -39,4 +39,4 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
 
  - [final 關鍵字](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/final%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
 
- - [抽象類(abstract](https://github.com/jack870131/Java-Note/tree/master/Object%20Oriented)
+ - [抽象類(abstract)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E6%8A%BD%E8%B1%A1%E9%A1%9E(abstract).md)
