@@ -44,3 +44,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [接口(interface)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E6%8E%A5%E5%8F%A3(interface).md)
 
  - [多態(Polymorphism)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%A4%9A%E6%85%8B(Polymorphism).md)
+
+ - [內部類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%85%A7%E9%83%A8%E9%A1%9E.md)
