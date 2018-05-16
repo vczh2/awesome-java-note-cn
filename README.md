@@ -46,3 +46,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [多態(Polymorphism)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%A4%9A%E6%85%8B(Polymorphism).md)
 
  - [內部類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%85%A7%E9%83%A8%E9%A1%9E.md)
+
+ - [匿名內部類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%8C%BF%E5%90%8D%E5%85%A7%E9%83%A8%E9%A1%9E.md)
