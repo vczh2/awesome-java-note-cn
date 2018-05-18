@@ -50,3 +50,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [匿名內部類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E5%8C%BF%E5%90%8D%E5%85%A7%E9%83%A8%E9%A1%9E.md)
 
  - [異常(Exception)](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/%E7%95%B0%E5%B8%B8%20(Exception).md)
+
+ - [Object 類](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/Object%20%E9%A1%9E.md)
