@@ -11,15 +11,17 @@
 2. 包與包之間的類進行訪問，被訪問的包中的類必須是 public 的，被訪問的包中，類的方法也必須是 public 的。
 
 ## protected
-- 不同包中的**子類(需有繼承父類)**可使用 **protected** 權限修飾符進行調用。
+- 不同包中的**子類(需有繼承父類)** 可使用 **protected** 權限修飾符進行調用。
 - **封裝**的一種。
+
 - 權限修飾符
-|權限    |public      |protected| default | private |
+
+| 權限    | public      | protected | default | private |
 |:------:|:--------:|:-------:|:---------:|:-------:|
-|同一類中|    ok    |   ok    |     ok    |     ok  |
-|同一包中|    ok    |   ok    |     ok    |
-|子類中  |    ok    |   ok    |
-|不同包中|    ok    |
+| 同一類中 |    ok    |   ok    |     ok    |  ok  |
+| 同一包中 |    ok    |   ok    |     ok    |
+| 子類中  |    ok    |   ok    |
+| 不同包中 |    ok    |
 
 ## import
 - 目的: 為了簡化類名的書寫。
