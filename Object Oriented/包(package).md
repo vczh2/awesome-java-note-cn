@@ -26,8 +26,8 @@
 ## import
 - 目的: 為了簡化類名的書寫。
 - 可以在使用前先在包中導入需要且位於別的包中的類。
-- 格式: 
-  import package1.Demo; -> 導入 package1 包中的 Demo 類。
+- 格式:<br>
+  import package1.Demo; -> 導入 package1 包中的 Demo 類。<br>
   import package1.*; -> 導入 package1 包中的所有類。(開發時不建議)
 - 導包的原則: 用到哪個類，就導入哪個類。
 
