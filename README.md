@@ -60,4 +60,4 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
 
  - [創建線程](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%89%B5%E5%BB%BA%E7%B7%9A%E7%A8%8B.md)
 
- - [創建線程事例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%BA%8B%E4%BE%8B.md)
+ - [多線程事例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%BA%8B%E4%BE%8B.md)
