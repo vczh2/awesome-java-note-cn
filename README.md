@@ -65,3 +65,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [多線程安全](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8.md)
 
  - [多線程安全示例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E5%AE%89%E5%85%A8%E7%A4%BA%E4%BE%8B.md)
+
+ - [多線程下的單例模式](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%A4%9A%E7%B7%9A%E7%A8%8B%E4%B8%8B%E7%9A%84%E5%96%AE%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
