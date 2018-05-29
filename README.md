@@ -71,3 +71,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [死鎖](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E6%AD%BB%E9%8E%96.md)
 
  - [線程間的通訊](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E7%B7%9A%E7%A8%8B%E9%96%93%E7%9A%84%E9%80%9A%E8%A8%8A.md)
+
+ - [等待&喚醒機制事例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E7%AD%89%E5%BE%85%26%E5%96%9A%E9%86%92%E6%A9%9F%E5%88%B6%E4%BA%8B%E4%BE%8B.md)
