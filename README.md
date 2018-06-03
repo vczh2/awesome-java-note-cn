@@ -75,3 +75,6 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [等待&喚醒機制事例](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E7%AD%89%E5%BE%85%26%E5%96%9A%E9%86%92%E6%A9%9F%E5%88%B6%E4%BA%8B%E4%BE%8B.md)
 
  - [停止線程](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
+
+### 集合框架
+ - [集合框架(集合類)](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6(%E9%9B%86%E5%90%88%E9%A1%9E).md)
