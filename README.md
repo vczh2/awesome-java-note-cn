@@ -77,5 +77,8 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [停止線程](https://github.com/jack870131/Java-Note/blob/master/Multithread/%E5%81%9C%E6%AD%A2%E7%B7%9A%E7%A8%8B.md)
 
 ### 集合框架
- - [基本數據類型包裝類](https://github.com/jack870131/Java-Note/blob/master/Collections/%E5%9F%BA%E6%9C%AC%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%B0%8D%E8%B1%A1%E5%8C%85%E8%A3%9D%E9%A1%9E.md)
+ - [基本數據類型對象包裝類](https://github.com/jack870131/Java-Note/blob/master/Collections/%E5%9F%BA%E6%9C%AC%E6%95%B8%E6%93%9A%E9%A1%9E%E5%9E%8B%E5%B0%8D%E8%B1%A1%E5%8C%85%E8%A3%9D%E9%A1%9E.md)
+ 
+ - [包裝類-練習](https://github.com/jack870131/Java-Note/blob/master/Collections/%E5%8C%85%E8%A3%9D%E9%A1%9E-%E7%B7%B4%E7%BF%92.md)
+ 
  - [集合框架(集合類)](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6(%E9%9B%86%E5%90%88%E9%A1%9E).md)
