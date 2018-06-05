@@ -84,3 +84,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [集合框架(集合類)](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6(%E9%9B%86%E5%90%88%E9%A1%9E).md)
 
  - [迭代器](https://github.com/jack870131/Java-Note/blob/master/Collections/%E8%BF%AD%E4%BB%A3%E5%99%A8.md)
+
+ - [List 接口](https://github.com/jack870131/Java-Note/blob/master/Collections/List%20%E6%8E%A5%E5%8F%A3.md)
