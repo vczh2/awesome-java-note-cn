@@ -87,4 +87,4 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
 
  - [List 接口](https://github.com/jack870131/Java-Note/blob/master/Collections/List%20%E6%8E%A5%E5%8F%A3.md)
 
- - [Vector 集合]()
+ - [Vector 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/Vector%20%E9%9B%86%E5%90%88.md)
