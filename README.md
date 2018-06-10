@@ -90,3 +90,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [Vector 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/Vector%20%E9%9B%86%E5%90%88.md)
 
  - [LinkedList 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/LinkedList%20集合.md)
+
+ - [ArrayList 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/ArrayList%20%E9%9B%86%E5%90%88.md)
