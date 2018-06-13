@@ -94,3 +94,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [ArrayList 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/ArrayList%20%E9%9B%86%E5%90%88.md)
 
  - [HashSet 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/HashSet%20%E9%9B%86%E5%90%88.md)
+
+ - [LinkedHashSet 集合]()
