@@ -100,3 +100,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [TreeSet 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/TreeSet%20%E9%9B%86%E5%90%88.md)
 
  - [Map 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/Map%20%E9%9B%86%E5%90%88.md)
+
+ - [泛型](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B.md)
