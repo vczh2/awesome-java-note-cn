@@ -102,3 +102,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [Map 集合](https://github.com/jack870131/Java-Note/blob/master/Collections/Map%20%E9%9B%86%E5%90%88.md)
 
  - [泛型](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B.md)
+
+ - [泛型方法](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E6%96%B9%E6%B3%95.md)
