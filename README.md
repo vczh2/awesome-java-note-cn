@@ -108,3 +108,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [泛型接口](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E6%8E%A5%E5%8F%A3.md)
 
  - [泛型限定](https://github.com/jack870131/Java-Note/blob/master/Collections/%E6%B3%9B%E5%9E%8B%E9%99%90%E5%AE%9A.md)
+
+ - [集合查閱技巧](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%9F%A5%E9%96%B1%E6%8A%80%E5%B7%A7.md)
