@@ -112,3 +112,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [集合查閱技巧](https://github.com/jack870131/Java-Note/blob/master/Collections/%E9%9B%86%E5%90%88%E6%9F%A5%E9%96%B1%E6%8A%80%E5%B7%A7.md)
 
  - [LinkedHashMap](https://github.com/jack870131/Java-Note/blob/master/Collections/LinkedHashMap.md)
+
+ - [Map 集合練習](https://github.com/jack870131/Java-Note/blob/master/Collections/Map%20%E9%9B%86%E5%90%88%E7%B7%B4%E7%BF%92.md)
