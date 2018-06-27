@@ -116,3 +116,6 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [Map 集合練習](https://github.com/jack870131/Java-Note/blob/master/Collections/Map%20%E9%9B%86%E5%90%88%E7%B7%B4%E7%BF%92.md)
 
  - [Utilities 工具類](https://github.com/jack870131/Java-Note/blob/master/Collections/Utilities%20%E5%B7%A5%E5%85%B7%E9%A1%9E.md)
+
+### 其他對象API
+ - [System 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/System%20%E9%A1%9E.md)
