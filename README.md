@@ -119,3 +119,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
 
 ### 其他對象API
  - [System 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/System%20%E9%A1%9E.md)
+
+ - [Runtime 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Runtime%20%E9%A1%9E.md)
