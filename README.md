@@ -123,3 +123,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [Runtime 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Runtime%20%E9%A1%9E.md)
 
  - [Math 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Math%20%E9%A1%9E.md)
+
+ - [Date 類](https://github.com/jack870131/Java-Note/blob/master/API-Other/Date%20%E9%A1%9E.md)
