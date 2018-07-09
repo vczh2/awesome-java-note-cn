@@ -134,3 +134,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [FileWriter](https://github.com/jack870131/Java-Note/blob/master/IO/FileWriter.md)
 
  - [IOException](https://github.com/jack870131/Java-Note/blob/master/IO/IOException.md)
+
+ - [緩沖區](https://github.com/jack870131/Java-Note/blob/master/IO/%E7%B7%A9%E6%B2%96%E5%8D%80.md)
