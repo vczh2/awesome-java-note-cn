@@ -140,3 +140,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [自定義讀取緩沖區](https://github.com/jack870131/Java-Note/blob/master/IO/%E8%87%AA%E5%AE%9A%E7%BE%A9%E8%AE%80%E5%8F%96%E7%B7%A9%E8%A1%9D%E5%8D%80.md)
 
  - [裝飾設計模式](https://github.com/jack870131/Java-Note/blob/master/IO/%E8%A3%9D%E9%A3%BE%E8%A8%AD%E8%A8%88%E6%A8%A1%E5%BC%8F.md)
+
+ - [LineNumberReader](https://github.com/jack870131/Java-Note/blob/master/IO/LineNumberReader.md)
