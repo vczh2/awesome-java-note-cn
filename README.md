@@ -29,7 +29,7 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  
  - [this 關鍵字](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/this%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
- - [static 關鍵字](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/7.%20static%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
+ - [static 關鍵字](https://github.com/jack870131/java-note/blob/master/Object%20Oriented/static%20%E9%97%9C%E9%8D%B5%E5%AD%97.md)
  
  - [文檔注釋](https://github.com/jack870131/Java-Note/blob/master/Object%20Oriented/8.%20%E6%96%87%E6%AA%94%E6%B3%A8%E9%87%8B.md)
  
