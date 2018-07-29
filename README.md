@@ -154,3 +154,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [File 類](https://github.com/jack870131/java-note/blob/master/IO/File%20%E9%A1%9E.md)
 
  - [File 類事例](https://github.com/jack870131/java-note/blob/master/IO/File%20%E9%A1%9E%E4%BA%8B%E4%BE%8B.md)
+
+ - [Properties 集合](https://github.com/jack870131/java-note/blob/master/IO/Properties%20%E9%9B%86%E5%90%88.md)
