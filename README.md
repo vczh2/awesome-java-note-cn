@@ -160,3 +160,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [IO 綜合練習](https://github.com/jack870131/java-note/blob/master/IO/IO%20%E7%B6%9C%E5%90%88%E7%B7%B4%E7%BF%92.md)
 
  - [打印流](https://github.com/jack870131/java-note/blob/master/IO/%E6%89%93%E5%8D%B0%E6%B5%81.md)
+ 
+ - [序列流](https://github.com/jack870131/java-note/blob/master/IO/%E5%BA%8F%E5%88%97%E6%B5%81.md)
