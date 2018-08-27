@@ -176,3 +176,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [DataStream](https://github.com/jack870131/java-note/blob/master/IO/DataStream.md)
 
  - [ArrayStream](https://github.com/jack870131/java-note/blob/master/IO/ArrayStream.md)
+
+ - [編碼表](https://github.com/jack870131/java-note/blob/master/IO/%E7%B7%A8%E7%A2%BC%E8%A1%A8.md)
