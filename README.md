@@ -174,3 +174,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [管道流](https://github.com/jack870131/java-note/blob/master/IO/%E7%AE%A1%E9%81%93%E6%B5%81.md)
 
  - [DataStream](https://github.com/jack870131/java-note/blob/master/IO/DataStream.md)
+
+ - [ArrayStream](https://github.com/jack870131/java-note/blob/master/IO/ArrayStream.md)
