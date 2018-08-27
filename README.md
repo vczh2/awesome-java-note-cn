@@ -172,3 +172,5 @@ I'm a freshman of Java. It is a place that record my learning process. If you ha
  - [RandomAccessFile](https://github.com/jack870131/java-note/blob/master/IO/%E5%B0%8D%E8%B1%A1%E5%BA%8F%E5%88%97%E5%8C%96.md)
 
  - [管道流](https://github.com/jack870131/java-note/blob/master/IO/%E7%AE%A1%E9%81%93%E6%B5%81.md)
+
+ - [DataStream](https://github.com/jack870131/java-note/blob/master/IO/DataStream.md)
