@@ -1,7 +1,7 @@
 # Java-Note
 
 ## Introduction
-Welcome to the Java journey!
+Have a cup of Java here!
 
 ## Menu
 
