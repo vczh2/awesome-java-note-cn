@@ -198,7 +198,7 @@ Have a cup of Java here!
 
  - [URL & URL Connection](https://github.com/jack870131/java-note/blob/master/Network/URL%20%26%20URL%20Connection.md)
 
- - [常見網絡結構https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E7%B6%B2%E7%B5%A1%E7%B5%90%E6%A7%8B.md)
+ - [常見網絡結構](https://github.com/jack870131/awesome-java-note-cn/blob/master/Network/%E5%B8%B8%E8%A6%8B%E7%B6%B2%E7%B5%A1%E7%B5%90%E6%A7%8B.md)
 
 ### 反射
  - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Reflection/%E6%A6%82%E8%BF%B0.md)
