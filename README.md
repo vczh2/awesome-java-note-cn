@@ -215,3 +215,5 @@ Have a cup of Java here!
  - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E6%A6%82%E8%BF%B0.md)
 
  - [常見符號](https://github.com/jack870131/awesome-java-note-cn/tree/master/Regular%20Expression)
+
+ - [常見功能](https://github.com/jack870131/awesome-java-note-cn/blob/master/Regular%20Expression/%E5%B8%B8%E8%A6%8B%E5%8A%9F%E8%83%BD.md)
