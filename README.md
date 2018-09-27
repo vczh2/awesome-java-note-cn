@@ -231,4 +231,4 @@ Have a cup of Java here!
 
  - [圖像標籤](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E5%9C%96%E5%83%8F%E6%A8%99%E7%B1%A4.md)
 
- - [表格標籤](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E5%9C%96%E5%83%8F%E6%A8%99%E7%B1%A4.md)
+ - [表格標籤](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E8%A1%A8%E6%A0%BC%E6%A8%99%E7%B1%A4.md)
