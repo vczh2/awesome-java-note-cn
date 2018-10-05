@@ -240,3 +240,5 @@ Have a cup of Java here!
  - [表單格式化](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E8%A1%A8%E5%96%AE%E6%A0%BC%E5%BC%8F%E5%8C%96.md)
 
  - [其他標籤](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E5%85%B6%E4%BB%96%E6%A8%99%E7%B1%A4.md)
+
+ - [XHTML(XML)](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/XHTML(XML).md)
