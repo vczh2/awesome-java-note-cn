@@ -242,3 +242,5 @@ Have a cup of Java here!
  - [其他標籤](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E5%85%B6%E4%BB%96%E6%A8%99%E7%B1%A4.md)
 
  - [XHTML(XML)](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/XHTML(XML).md)
+
+ - [標籤的分類](https://github.com/jack870131/awesome-java-note-cn/blob/master/HTML/%E6%A8%99%E7%B1%A4%E7%9A%84%E5%88%86%E9%A1%9E.md)
