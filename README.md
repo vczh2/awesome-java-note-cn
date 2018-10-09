@@ -253,3 +253,5 @@ Have a cup of Java here!
  - [CSS 樣式的結合](https://github.com/jack870131/awesome-java-note-cn/blob/master/CSS/CSS%20%E6%A8%A3%E5%BC%8F%E7%9A%84%E7%B5%90%E5%90%88.md)
 
  - [盒模型](https://github.com/jack870131/awesome-java-note-cn/blob/master/CSS/%E7%9B%92%E6%A8%A1%E5%9E%8B.md)
+
+ - [CSS 布局-漂浮](https://github.com/jack870131/awesome-java-note-cn/blob/master/CSS/CSS%20%E5%B8%83%E5%B1%80-%E6%BC%82%E6%B5%AE.md)
