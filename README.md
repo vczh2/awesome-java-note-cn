@@ -261,3 +261,6 @@ Have a cup of Java here!
  - [CSS 布局-圖文混排](https://github.com/jack870131/awesome-java-note-cn/blob/master/CSS/CSS%20%E5%B8%83%E5%B1%80%20-%20%E5%9C%96%E6%96%87%E6%B7%B7%E6%8E%92.md)
 
  - [CSS 布局-圖像簽名](https://github.com/jack870131/awesome-java-note-cn/blob/master/CSS/CSS%20%E5%B8%83%E5%B1%80%20-%20%E5%9C%96%E5%83%8F%E7%B0%BD%E5%90%8D.md)
+
+### JavaScript
+ - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E6%A6%82%E8%BF%B0.md)
