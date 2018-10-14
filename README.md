@@ -264,3 +264,5 @@ Have a cup of Java here!
 
 ### JavaScript
  - [概述](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E6%A6%82%E8%BF%B0.md)
+
+ - [JS 語法](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E8%AA%9E%E6%B3%95.md)
