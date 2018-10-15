@@ -268,3 +268,5 @@ Have a cup of Java!
  - [JS 語法](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E8%AA%9E%E6%B3%95.md)
 
  - [JS 變量](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E8%AE%8A%E9%87%8F.md)
+ 
+ - [JS 運算符](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E9%81%8B%E7%AE%97%E7%AC%A6.md)
