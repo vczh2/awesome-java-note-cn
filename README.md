@@ -272,3 +272,5 @@ Have a cup of Java!
  - [JS 運算符](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E9%81%8B%E7%AE%97%E7%AC%A6.md)
 
  - [JS 語句](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E8%AA%9E%E5%8F%A5.md)
+
+ - [JS 練習-九九乘法表](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E7%B7%B4%E7%BF%92%20-%20%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.md)
