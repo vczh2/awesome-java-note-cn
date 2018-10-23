@@ -276,3 +276,5 @@ Have a cup of Java!
  - [JS 練習-九九乘法表](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E7%B7%B4%E7%BF%92%20-%20%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.md)
 
  - [JS 數組](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E6%95%B8%E7%B5%84.md)
+
+ - [JS 函數](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E5%87%BD%E6%95%B8.md)
