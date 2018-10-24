@@ -278,3 +278,5 @@ Have a cup of Java!
  - [JS 數組](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E6%95%B8%E7%B5%84.md)
 
  - [JS 函數](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E5%87%BD%E6%95%B8.md)
+
+ - [JS 綜合練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/JS%20%E7%B6%9C%E5%90%88%E7%B7%B4%E7%BF%92.md)
