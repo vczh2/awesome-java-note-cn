@@ -284,3 +284,4 @@ Have a cup of Java!
  - [全局和局部變量](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E5%85%A8%E5%B1%80%E5%92%8C%E5%B1%80%E9%83%A8%E8%AE%8A%E9%87%8F.md)
 
  - [常見對象-Object](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E5%B8%B8%E8%A6%8B%E5%B0%8D%E8%B1%A1%20-%20Object.md)
+ - [常見對象-String](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E5%B8%B8%E8%A6%8B%E5%B0%8D%E8%B1%A1%20-%20String.md)
