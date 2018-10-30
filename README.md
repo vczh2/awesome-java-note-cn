@@ -287,3 +287,5 @@ Have a cup of Java!
  - [常見對象-String](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E5%B8%B8%E8%A6%8B%E5%B0%8D%E8%B1%A1%20-%20String.md)
 
 - [prototype 練習](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/prototype%20%E7%B7%B4%E7%BF%92.md)
+
+- [常見對象-Array](https://github.com/jack870131/awesome-java-note-cn/blob/master/JavaScript/%E5%B8%B8%E8%A6%8B%E5%B0%8D%E8%B1%A1%20-%20Array.md)
